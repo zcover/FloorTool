@@ -1,0 +1,47 @@
+{
+  "asof": "03/06/2020",
+  "employee_list": [
+    {
+      "name": "Scott Dillman",
+      "title": "Ricoh Assistant Site Mgr.",
+      "department": "Corporate Facility VendorHeads",
+      "desk_phone": "",
+      "email": "sdillman@amazon.com"
+    },
+    {
+      "name": "Kacee Dwyer",
+      "title": "Data Operations  Program Mgr",
+      "department": "Computer Vision Software Prdct",
+      "desk_phone": "206/922-0326",
+      "email": "dwykacee@amazon.com"
+    },
+    {
+      "name": "Corey Schaeffer",
+      "title": "Ricoh Site Supervisor",
+      "department": "Corporate Facility VendorHeads",
+      "desk_phone": "",
+      "email": "corshaef@amazon.com"
+    },
+    {
+      "name": "Andrew Martin",
+      "title": "Ricoh Site Manager",
+      "department": "Corporate Facility VendorHeads",
+      "desk_phone": "",
+      "email": "ndmara@amazon.com"
+    },
+    {
+      "name": "Nemesio Luzano",
+      "title": "Ricoh Assistant Site Mgr.",
+      "department": "Corporate Facility VendorHeads",
+      "desk_phone": "",
+      "email": "luzann@amazon.com"
+    },
+    {
+      "name": "David Rosenbaum",
+      "title": "Ricoh BSC Associate",
+      "department": "Corporate Facility VendorHeads",
+      "desk_phone": "",
+      "email": "drsen@amazon.com"
+    }
+  ]
+}
